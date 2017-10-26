@@ -2,7 +2,7 @@
     "app_name": "Battery Saver 2017",
 	"app_current_package":"powermanager.batterydoctor.batterysaver.fastcharge",
 	"app_current_version": "1.0.8",
-	"app_current_version_code": 9,
+	"app_current_version_code": 8,
 	"app_should_show_update_popup": "true",
 	"app_current_state": "normal",
 	"app_new_package_if_app_was_suspended":"powermanager.batterydoctor.batterysaver.fastcharge"
