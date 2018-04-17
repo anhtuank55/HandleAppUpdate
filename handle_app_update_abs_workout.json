@@ -4,7 +4,7 @@
 	"app_current_version": "1.1.1",
 	"app_current_version_code": 1,
 	"app_should_show_update_popup": "true",
-	"app_current_state": "normal",
+	"app_current_state": "suspended",
 	"app_new_package_if_app_was_suspended":"com.workoutgroup.homeworkout.newabsworkout.challenge",
 	"app_is_should_show_ads": "false",
 	"app_show_in_app_purchase": "false"
