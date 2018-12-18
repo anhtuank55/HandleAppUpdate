@@ -1,0 +1,11 @@
+{
+  "app_name": "Abs Workout",
+	"app_current_package":"workout.justdoit.sixpack.challenge",
+	"app_current_version": "1.0.1",
+	"app_current_version_code": 1,
+	"app_should_show_update_popup": "true",
+	"app_current_state": "normal",
+	"app_new_package_if_app_was_suspended":"workout.justdoit.sixpack.challenge",
+	"app_is_should_show_ads": "true",
+	"app_show_in_app_purchase": "false"
+}
