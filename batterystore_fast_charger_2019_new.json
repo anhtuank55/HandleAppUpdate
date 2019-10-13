@@ -4,6 +4,6 @@
 	  "app_current_version": "1.0.4",
 	  "app_current_version_code": 4,
 	  "app_should_show_update_popup": "true",
-	  "app_current_state": "normal",
-	  "app_new_package_if_app_was_suspended":"batterysaver.fastcharge.fastcharging.batteryoptimize"
+	  "app_current_state": "suspended",
+	  "app_new_package_if_app_was_suspended":"researchcenter.notification.lockscreen"
 }
